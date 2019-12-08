@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://storage.googleapis.com/chatwoot-assets/woot-logo.svg" alt="Woot-logo" width="240">
 
-  <div align="center">A simple and elegant live chat software</div>
+  <div align="center">A simple and elegant live chat software for websites</div>
   <div align="center">An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.</div>
 </p>
 
