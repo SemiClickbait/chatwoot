@@ -1,3 +1,5 @@
+Rails.application.routes.default_url_options = config.action_mailer.default_url_options = { :host => 'anglechat.herokuapp.com', :protocol => 'https' }
+
 # server-based syntax
 # ======================
 # Defines a single server with a list of roles and multiple properties.
